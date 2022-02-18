@@ -28,3 +28,38 @@
     padding-left: 15px;
     font-size: 23px;
 }
+
+.Carde {
+        display: flex;
+    flex-wrap: wrap; 
+    width: 808px;
+        margin: -45px;
+    padding: 10px;
+}
+
+.Carda {
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+    padding: 30px;
+    box-shadow: 0px 10px 30px rgb(0 0 0 / 20%);
+    border-radius: 6px;
+    margin: 20px 15px;
+    flex-basis: 20px;
+    flex-grow: 1;
+
+    
+
+}
+
+
+.Carda img {
+        width: 200px;
+    border-radius: 6px;
+}
+
+.Carda h3 {
+    flex-grow: 1;
+    padding-left: 15px;
+    font-size: 23px;
+}
